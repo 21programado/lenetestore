@@ -1,0 +1,42 @@
+[
+  {
+    "id": "damas",
+    "nombre": "Damas73",
+    "descripcion": "Juego de Damas clásico.",
+    "categoria": "Juegos",
+    "icon192": "damas-192.png",
+    "icon512": "damas-512.png",
+    "url": "https://damas73.vercel.app",
+    "version": "1.0"
+  },
+  {
+    "id": "tetris",
+    "nombre": "Tetris 73",
+    "descripcion": "Tetris clásico.",
+    "categoria": "Juegos",
+    "icon192": "tetris-192.png",
+    "icon512": "tetris-512.png",
+    "url": "https://tetris73.vercel.app",
+    "version": "1.0"
+  },
+  {
+    "id": "buscaminas",
+    "nombre": "Buscaminas 73",
+    "descripcion": "Juego Buscaminas.",
+    "categoria": "Juegos",
+    "icon192": "buscaminas-192.png",
+    "icon512": "buscaminas-512.png",
+    "url": "https://buscaminas73.netlify.app",
+    "version": "1.0"
+  },
+  {
+    "id": "galaxi",
+    "nombre": "Galaxi 73",
+    "descripcion": "Juego espacial.",
+    "categoria": "Juegos",
+    "icon192": "galaxi-192.png",
+    "icon512": "galaxi-512.png",
+    "url": "https://galaxi73.pages.dev",
+    "version": "1.0"
+  }
+]
