@@ -38,5 +38,15 @@
     "icon512": "galaxi-512.png",
     "url": "https://galaxi73.pages.dev",
     "version": "1.0"
+  },
+  {
+    "id": "puzzle",
+    "nombre": "Puzzle 73",
+    "descripcion": "Juego Puzzle.",
+    "categoria": "Juegos",
+    "icon192": "puzzle-192.png",
+    "icon512": "puzzle-512.png",
+    "url": "https://21programado.github.io/puzzle/",
+    "version": "1.0"
   }
 ]
