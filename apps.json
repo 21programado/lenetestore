@@ -48,5 +48,15 @@
     "icon512": "puzzle-512.png",
     "url": "https://21programado.github.io/puzzle/",
     "version": "1.0"
+  },
+  {
+    "id": "tateti",
+    "nombre": "Tateti 73",
+    "descripcion": "Juego Tateti.",
+    "categoria": "Juegos",
+    "icon192": "tateti-192.png",
+    "icon512": "tateti-512.png",
+    "url": "https://21programado.github.io/tateti/",
+    "version": "1.0"
   }
 ]
