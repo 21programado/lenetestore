@@ -108,5 +108,15 @@
     "icon512": "nivel-512.png",
     "url": "https://21programado.github.io/nivel/",
     "version": "1.0"
+  },
+  {
+    "id": "db",
+    "nombre": "Visor de archivos .db",
+    "descripcion": "Visor de archivos .db",
+    "categoria": "Herramientas",
+    "icon192": "db-192.png",
+    "icon512": "db-512.png",
+    "url": "https://21programado.github.io/db/",
+    "version": "1.0"
   }
 ]
