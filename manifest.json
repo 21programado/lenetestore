@@ -1,6 +1,6 @@
 {
   "name": "Mi Tienda de Aplicaciones",
-  "short_name": "PWA Store",
+  "short_name": "Lenete Store",
   "description": "Catálogo personal de Aplicaciones Web Progresivas",
   "start_url": "./index.html",
   "display": "standalone",
