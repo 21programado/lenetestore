@@ -68,5 +68,25 @@
     "icon512": "lenete-512.png",
     "url": "https://lenetejump.vercel.app/",
     "version": "1.0"
+  },
+  {
+    "id": "ruleta",
+    "nombre": "Ruleta editable",
+    "descripcion": "Ruleta para múltiples propósitos.",
+    "categoria": "Herramientas",
+    "icon192": "ruleta-192.png",
+    "icon512": "ruleta-512.png",
+    "url": "https://ruleta73.pages.dev/",
+    "version": "1.0"
+  },
+  {
+    "id": "impostor",
+    "nombre": "El Impostor",
+    "descripcion": "Aplicación para jugar al Impostor.",
+    "categoria": "Herramientas",
+    "icon192": "impostor-192.png",
+    "icon512": "impostor-512.png",
+    "url": "https://losimpostores.vercel.app/",
+    "version": "1.0"
   }
 ]
