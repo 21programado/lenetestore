@@ -58,5 +58,15 @@
     "icon512": "tateti-512.png",
     "url": "https://21programado.github.io/tateti/",
     "version": "1.0"
+  },
+  {
+    "id": "lenete",
+    "nombre": "Lenete Jump",
+    "descripcion": "Juego con perrita.",
+    "categoria": "Juegos",
+    "icon192": "lenete-192.png",
+    "icon512": "lenete-512.png",
+    "url": "https://lenetejump.vercel.app/",
+    "version": "1.0"
   }
 ]
