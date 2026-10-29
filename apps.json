@@ -118,5 +118,15 @@
     "icon512": "db-512.png",
     "url": "https://21programado.github.io/db/",
     "version": "1.0"
+  },
+  {
+    "id": "bizantino",
+    "nombre": "Texto y Concordancia del NT",
+    "descripcion": "Texto y Concordancia del Texto Griego del Nuevo Testamento (Bizantino)",
+    "categoria": "Herramientas",
+    "icon192": "biz-192.png",
+    "icon512": "bix-512.png",
+    "url": "https://bizantino73.vercel.app",
+    "version": "1.0"
   }
 ]
